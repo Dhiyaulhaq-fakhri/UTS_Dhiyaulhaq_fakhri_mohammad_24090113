@@ -10,5 +10,9 @@ for i in range():
     hasil_timbang = input_Bb // input_Tb
 
     if hasil_timbang , 18.5
+        tipe = hasil_timbang < 18.5
+        print('berat badan kurus')
+    
+    elif 18,5 <= hasil_timbang < 24.9 :
 
-    elif 24 <=
+            tipe = hasil_timbang < 24.9

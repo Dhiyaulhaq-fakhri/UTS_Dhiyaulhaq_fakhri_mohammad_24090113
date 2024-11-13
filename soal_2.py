@@ -6,4 +6,4 @@ while True :
 
             if input_tahun :
                   input_tahun % 4 
-                  print(f'tahun{input_tahun}')
+                  print(f'tahun{input_tahun} bukan tahun kabisat')
